@@ -1,0 +1,1 @@
+hopefully will be a responsive webapp for at least creating ygo decks
